@@ -52,7 +52,7 @@ def run():
 
 # main entry point
 if __name__ == "__main__":
-
+    """
     options = get_options()
     # check binary
     if options.nogui:
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     #traci.start([sumoBinary, "-c", "sumo.sumocfg",
                      #"--tripinfo-output", "tripinfo.xml"])
     #run()
-
+"""
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     print("get here A")
     s.bind((HOST, PORT))
