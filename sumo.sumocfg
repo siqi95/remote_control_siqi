@@ -2,9 +2,16 @@
 
     <input>
 
-        <net-file value="sumo.net.xml"/>
-        <route-files value ="sumo.rou.xml"/>
-        <additional-files value="additional.xml"/>
+        <net-file value="newedit.net.xml"/>
+        <route-files value ="newedit.rou.xml"/>
+        <additional-files value = "additional.xml"/>
     </input>
-
+    <time>
+        <begin value = "0"/>
+        <end value = "5000000"/>
+    </time>
 </configuration>
+
+
+
+

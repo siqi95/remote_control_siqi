@@ -1,0 +1,229 @@
+<slot>
+    <E36_0>
+        <slot_0>
+            <time time="0"></time>
+            <pos position="(-48, 55)"></pos>
+            <lane lane="E36"></lane>
+            <speed speed="120"></speed>
+
+        </slot_0>
+        <slot_1>
+            <time time="1"></time>
+            <pos position="(-47, 57.6)"></pos>
+            <lane lane="E36"></lane>
+            <speed speed="120"></speed>
+
+        </slot_1>
+        <slot_2>
+            <time time="2"></time>
+            <pos position="(-46, 60.2)"></pos>
+            <lane lane="E36"></lane>
+            <speed speed="120"></speed>
+
+        </slot_2>
+        <slot_3>
+            <time time="3"></time>
+            <pos position="(-45, 62.8)"></pos>
+            <lane lane="E36"></lane>
+            <speed speed="120"></speed>
+
+        </slot_3>
+        <slot_4>
+            <time time="4"></time>
+            <pos position="(-44, 65.4)"></pos>
+            <lane lane="E36"></lane>
+            <speed speed="120"></speed>
+
+        </slot_4>
+    </E36_0>
+
+    <E25_0>
+        <slot_0>
+            <time time="0"></time>
+            <pos position="(-33, 71)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+
+        </slot_0>
+        <slot_1>
+            <time time="1"></time>
+            <pos position="(-32.9, 71.4)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+
+        </slot_1>
+        <slot_2>
+            <time time="2"></time>
+            <pos position="(-29.8, 71.8)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+
+        </slot_2>
+        <slot_3>
+            <time time="3"></time>
+            <pos position="(-27.7, 72.2)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+
+        </slot_3>
+        <slot_4>
+            <time time="4"></time>
+            <pos position="(-24.4, 72.6)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+
+        </slot_4>
+
+    </E25_0>
+
+    <E25_1>
+
+        <slot_0>
+            <time time="5"></time>
+            <pos position="(-22.6, 73.4)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+
+        </slot_0>
+        <slot_1>
+            <time time="6"></time>
+            <pos position="(-19.3, 80)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+        </slot_1>
+        <slot_2>
+            <time time="7"></time>
+            <pos position="(-16.8, 80)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+        </slot_2>
+        <slot_3>
+            <time time="8"></time>
+            <pos position="(-13.4, 80)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+        </slot_3>
+        <slot_4>
+            <time time="9"></time>
+            <pos position="(-9.1, 80)"></pos>
+            <lane lane="E25"></lane>
+            <speed speed="120"></speed>
+        </slot_4>
+
+    </E25_1>
+
+    <E33_0>
+        <slot_0>
+            <time time="0"></time>
+            <pos position="(2, 60.87)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_0>
+        <slot_1>
+            <time time="1"></time>
+            <pos position="(10.2, 56.87)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_1>
+        <slot_2>
+            <time time="2"></time>
+            <pos position="(18.4, 52.87)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>>
+
+        </slot_2>
+        <slot_3>
+            <time time="3"></time>
+            <pos position="(26.8, 48.87)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_3>
+        <slot_4>
+            <time time="4"></time>
+            <pos position="(44.0, 45.87)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_4>
+    </E33_0>
+    <E37_0>
+        <slot_0>
+            <time time="0"></time>
+            <pos position="(50.82, 47.74)"></pos>
+            <lane lane="E37"></lane>
+            <speed speed="120"></speed>
+
+        </slot_0>
+        <slot_1>
+            <time time="1"></time>
+            <pos position="(62.89, 47.73)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_1>
+        <slot_2>
+            <time time="2"></time>
+            <pos position="(74.56, 47.72)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>>
+
+        </slot_2>
+        <slot_3>
+            <time time="3"></time>
+            <pos position="(86.43, 47.71)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_3>
+        <slot_4>
+            <time time="4"></time>
+            <pos position="(99.33, 47.70)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_4>
+
+    </E37_0>
+    <E38_0>
+        <slot_0>
+            <time time="0"></time>
+            <pos position="(106.65, 48.19)"></pos>
+            <lane lane="E37"></lane>
+            <speed speed="120"></speed>
+
+        </slot_0>
+        <slot_1>
+            <time time="1"></time>
+            <pos position="(111.19, 53.23)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_1>
+        <slot_2>
+            <time time="2"></time>
+            <pos position="(115.73, 58.27)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>>
+
+        </slot_2>
+        <slot_3>
+            <time time="3"></time>
+            <pos position="(120.27, 64.31)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_3>
+        <slot_4>
+            <time time="4"></time>
+            <pos position="(124.84, 68.35)"></pos>
+            <lane lane="E33"></lane>
+            <speed speed="120"></speed>
+
+        </slot_4>
+
+    </E38_0>
+
+</slot>

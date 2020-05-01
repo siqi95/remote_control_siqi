@@ -6,17 +6,17 @@
 
    			sigma="1.0" maxSpeed="10"/>
 
-    <route id="route_0" edges="E1 E2"  />
-    <route id ="route_1" edges="E10 E11" junctions="gneJ4" />
-    <route id ="route_2" edges="E4" />
+    <!--<route id="route_0" edges="E1 E2"  /> -->
+    <route id ="route_1" edges="1156216096_1 1156216096_2 1156216096_3" />
+    <!--<route id ="route_2" edges="E4" /> -->
     <!--<flow id="carflow" type="car" beg="0" end="0" number="5" from="e1" to="e8"/>-->
 
     <!--<flow id="evflow" type="ev" beg="0" end="0" number="1" from="e1" to="e8"/>-->
 
-    <vehicle id="0" type="car" route="route_0" depart="0"/>
-    <vehicle id="1" type="car" route="route_0" depart="0"/>
-    <vehicle id="2" type="car" route="route_0" depart="6"/>
-    <vehicle id="3" type="car" route="route_1" depart="0"/>
+    <vehicle id="0" type="car" route="route_1" depart="0"/>
+    <vehicle id="1" type="car" route="route_1" depart="2"/>
+    <vehicle id="2" type="car" route="route_1" depart="6"/>
+    <vehicle id="3" type="car" route="route_1" depart="8"/>
     <vehicle id="4" type="car" route="route_1" depart="12"/>
 
 </routes>

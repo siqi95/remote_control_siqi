@@ -1,17 +1,31 @@
 <additionals>
 
-    <rerouter id="rerouter_0" edges="E1" probability="1">
-        <interval begin="0" end="1000">
-		   <destProbReroute id="E2"/>
+    <rerouter id="rerouter_0" edges="-gneE36" probability="1">
+        <interval begin="0" end="5000">
+		   <destProbReroute id="-gneE25"/>
 		</interval>
     </rerouter>
-    <rerouter id="rerouter_2" edges="E2" probability="1">
-        <interval begin="0" end="1000">
-		   <destProbReroute id="E1"/>
+
+    <rerouter id="rerouter_2" edges="-gneE25" probability="1">
+        <interval begin="0" end="5000">
+		   <destProbReroute id="gneE33"/>
 		</interval>
 
     </rerouter>
-    <e1Detector id="det_0" lane="E2_0" pos="0" freq="100" file="det.out.xml" />
+    <rerouter id="rerouter_3" edges="gneE33" probability="1">
+        <interval begin="0" end="5000">
+		   <destProbReroute id="-gneE36"/>
+		</interval>
+
+    </rerouter>
+
+    <rerouter id="rerouter_4" edges="gneE37" probability="1">
+        <interval begin="0" end="5000">
+		   <destProbReroute id="-gneE37"/>
+		</interval>
+
+    </rerouter>
+    <e1Detector id="det_0" lane="-gneE36_0" pos="0" freq="100" file="det.out.xml" />
 
 
 </additionals>
